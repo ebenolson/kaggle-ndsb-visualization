@@ -1,0 +1,162 @@
+Artifacts
+	artifacts
+	artifacts edge
+Unknown
+	unknown blobs and smudges
+	unknown sticks
+	unknown unclassified
+Plankton
+	Trichodesmium
+		trichodesmium tuft
+		trichodesmium bowtie
+		trichodesmium puff
+		trichodesmium multiple
+	Protists
+		*
+			acantharia protist
+			acantharia protist big center
+			acantharia protist halo
+		*            
+			protist noctiluca
+		*
+			protist other
+			protist star
+			protist fuzzy olive
+			protist dark center
+		*
+			radiolarian colony
+			radiolarian chain
+	Diatoms
+		diatom chain string
+		diatom chain tube
+	Gelatinous Zooplankton
+		*
+			jellies tentacles
+		*            
+			ephyra
+		Hydromedusae
+			*
+				hydromedusae narcomedusae
+				hydromedusae narco dark
+				hydromedusae solmundella
+				hydromedusae solmaris
+				hydromedusae narco young
+			*
+				hydromedusae liriope
+				hydromedusae aglaura
+				hydromedusae haliscera
+				hydromedusae haliscera small sideview            
+			Other Hydromedusae
+				hydromedusae other
+				hydromedusae partial dark
+				hydromedusae typeD bell and tentacles
+				hydromedusae typeD
+				hydromedusae typeE
+				hydromedusae typeF
+				hydromedusae bell and tentacles
+				hydromedusae shapeA
+				hydromedusae shapeA sideview small
+				hydromedusae sideview big
+				hydromedusae shapeB
+				hydromedusae h15
+		Ctenophores
+			ctenophore cestid
+			ctenophore cydippid tentacles
+			ctenophore cydippid no tentacles
+			ctenophore lobate
+		Siphonophores
+			siphonophore other parts
+			siphonophore partial
+			*
+				siphonophore physonect
+				siphonophore physonect young
+			*
+				siphonophore calycophoran abylidae
+			*
+				siphonophore calycophoran rocketship adult
+				siphonophore calycophoran rocketship young
+			*
+				siphonophore calycophoran sphaeronectes
+				siphonophore calycophoran sphaeronectes young
+				siphonophore calycophoran sphaeronectes stem
+		Pelagic tunicates
+			*
+				tunicate doliolid
+				tunicate doliolid nurse
+				tunicate salp
+				tunicate salp chains
+				tunicate partial
+			Appendicularians
+				appendicularian fritillaridae
+				appendicularian s shape
+				appendicularian slight curve
+				appendicularian straight
+	chordate type1
+	Fish
+		fish larvae leptocephali
+		fish larvae myctophids
+		fish larvae very thin body
+		fish larvae thin body
+		fish larvae medium body
+		fish larvae deep body
+	Crustaceans
+		crustacean other
+		stomatopod
+		amphipods
+		Copepods
+			Cyclopoid copepods
+				copepod cyclopoid copilia
+				copepod cyclopoid oithona
+				copepod cyclopoid oithona eggs
+			*
+				copepod calanoid
+				copepod other
+				copepod calanoid frillyAntennae
+				copepod calanoid small longantennae
+				copepod calanoid flatheads
+				copepod calanoid eggs
+				copepod calanoid octomoms
+				copepod calanoid large
+				copepod calanoid large side antennatucked
+				copepod calanoid eucalanus
+		Shrimp-like
+			shrimp-like other
+			*
+				euphausiids
+				euphausiids young
+			*
+				decapods
+				shrimp zoea
+				shrimp caridean
+				shrimp sergestidae
+	polychaete
+	Chaetognaths
+		chaetognath sagitta
+		chaetognath non sagitta
+		chaetognath other
+	Gastropods
+		*
+			heteropod
+		Pteropods
+			pteropod butterfly
+			pteropod triangle
+			pteropod theco dev seq
+	Other Invert Larvae
+		trochophore larvae
+		invertebrate larvae other A
+		invertebrate larvae other B
+		tornaria acorn worm larvae
+		Echinoderms
+			echinoderm larva pluteus early
+			echinoderm larva pluteus urchin
+			echinoderm larva pluteus typeC
+			echinoderm larva pluteus brittlestar
+			echinopluteus
+			echinoderm larva seastar bipinnaria
+			echinoderm larva seastar brachiolaria
+			echinoderm seacucumber auricularia larva
+	Detritus
+		fecal pellet
+		detritus blob
+		detritus filamentous
+		detritus other
