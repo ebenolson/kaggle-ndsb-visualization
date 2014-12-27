@@ -22,6 +22,9 @@ Clone this repository into a directory adjecent to your data directory, containi
 Memory usage is currently very unoptimized, and at least 16GB of RAM is required to render the bubble plot. Use of an Amazon EC2 `m3.2xlarge` instance is recommended. Numpy `memmap` can be used to reduce this, but computation time is greatly increased. Mosaic creation (`make_mosaics.py`) is much less memory intensive.
 
 ### Screenshots
-[Zoomed out completely](http://i.imgur.com/VDO7Ilp.png)
-[Single mosaic](http://i.imgur.com/C5nFvzM.png)
-[Zooming in on one group](http://i.imgur.com/brizfzs.png)
+Zoomed out completely
+![Zoomed out completely](http://i.imgur.com/VDO7Ilp.png)
+Zooming in on one group
+![Zooming in on one group](http://i.imgur.com/brizfzs.png)
+A single mosaic
+![Single mosaic](http://i.imgur.com/C5nFvzM.png)
